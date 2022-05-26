@@ -1,0 +1,83 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+html{
+    background-color: #f4f4f4;
+    font-family: 'Open Sans', sans-serif;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+nav{
+    background-color: #ffffff;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+
+}
+
+
+
+#knjiga-svg{
+    height: 50px;
+    filter: invert(53%) sepia(3%) saturate(6115%) hue-rotate(17deg) brightness(97%) contrast(92%);
+}
+
+#twitter-svg{
+    filter: invert(53%) sepia(3%) saturate(6115%) hue-rotate(17deg) brightness(97%) contrast(92%);
+}
+
+#fb-svg{
+    filter: invert(53%) sepia(3%) saturate(6115%) hue-rotate(17deg) brightness(97%) contrast(92%);
+}
+
+nav ul{
+    display: flex;
+    list-style-type: none;
+    margin-right: 10px;
+}
+
+
+ul li a{
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: black;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 26px;
+    padding-bottom: 26px;
+}
+
+nav div{
+    display: flex;
+    justify-content: space-between;
+
+    width: 70px;
+}
+
+nav div img{
+    width: 20px;
+}
+
+#poc:hover {
+    background-color: #b4c195;
+    color: white;
+    transition: 0.3s;
+}
+
+#knjige:hover{
+    background-color: #697739;
+    color: white;
+    transition: 0.3s;
+}
+
+#onama:hover{
+    background-color: #bd986b;
+    color: white;
+    transition: 0.3s;
+}
