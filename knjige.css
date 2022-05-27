@@ -81,3 +81,37 @@ nav div img{
     color: white;
     transition: 0.3s;
 }
+
+
+.wrapper{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+table{
+    padding: 40px;
+    width: 90%;
+    margin: auto;
+    
+}
+
+table td {
+    padding: 10px;
+}
+
+
+footer{
+    padding: 20px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    background-color: #697739;
+    color: #f4f4f4;
+    font-weight: bold;
+    padding-top: 30px;
+}

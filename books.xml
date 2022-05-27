@@ -1,33 +1,28 @@
 <?xml version="1.0"?>
 <catalog>
    <book id="bk101">
-      <author>Gambardella, Matthew</author>
-      <title>XML Developer's Guide</title>
-      <genre>Computer</genre>
+      <author>Clarke, Susanna</author>
+      <title>Jonathan Strange and Mr. Norell</title>
+      <genre>Fantasy</genre>
       <price>44.95</price>
       <publish_date>2000-10-01</publish_date>
-      <description>An in-depth look at creating applications 
-      with XML.</description>
+      <description>The year is 1806. centuries have passed since practical magicians faded into the nation's past. But scholars of this glorious history discover that one remains</description>
    </book>
    <book id="bk102">
-      <author>Ralls, Kim</author>
-      <title>Midnight Rain</title>
+      <author>Jordan, Robert</author>
+      <title>The Wheel of TIme</title>
       <genre>Fantasy</genre>
-      <price>5.95</price>
+      <price>15.95</price>
       <publish_date>2000-12-16</publish_date>
-      <description>A former architect battles corporate zombies, 
-      an evil sorceress, and her own childhood to become queen 
-      of the world.</description>
+      <description>The Wheel of Time turns and Ages come and go, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth returns again</description>
    </book>
    <book id="bk103">
-      <author>Corets, Eva</author>
-      <title>Maeve Ascendant</title>
+      <author>Tolkien, J.R.R</author>
+      <title>The Hobbit</title>
       <genre>Fantasy</genre>
-      <price>5.95</price>
+      <price>7.90</price>
       <publish_date>2000-11-17</publish_date>
-      <description>After the collapse of a nanotechnology 
-      society in England, the young survivors lay the 
-      foundation for a new society.</description>
+      <description>Bilbo Baggins enjoys a quiet and contented life, with no desire to travel far from the comforts of home. Then one day the wizard Gandalf and a band of dwarves arrive unexpectedly and enlist his services</description>
    </book>
    <book id="bk104">
       <author>Corets, Eva</author>
@@ -41,14 +36,12 @@
       Ascendant.</description>
    </book>
    <book id="bk105">
-      <author>Corets, Eva</author>
-      <title>The Sundered Grail</title>
+      <author>Gwynne, John</author>
+      <title>The Shadow of the Gods</title>
       <genre>Fantasy</genre>
-      <price>5.95</price>
+      <price>20.95</price>
       <publish_date>2001-09-10</publish_date>
-      <description>The two daughters of Maeve, half-sisters, 
-      battle one another for control of England. Sequel to 
-      Oberon's Legacy.</description>
+      <description>A century has passed since the gods fought and drove themselves to extinction. Now only their bones remain, promising great power to those brave enough to seek them out. </description>
    </book>
    <book id="bk106">
       <author>Randall, Cynthia</author>
@@ -60,13 +53,12 @@
       conference, tempers fly as feathers get ruffled.</description>
    </book>
    <book id="bk107">
-      <author>Thurman, Paula</author>
-      <title>Splish Splash</title>
-      <genre>Romance</genre>
-      <price>4.95</price>
+      <author>Pratchett, Terry</author>
+      <title>The Colour of Magic</title>
+      <genre>Comedy, Fantasy</genre>
+      <price>14.95</price>
       <publish_date>2000-11-02</publish_date>
-      <description>A deep sea diver finds true love twenty 
-      thousand leagues beneath the sea.</description>
+      <description>On a world supported on the back of a giant turtle, a wickedly eccentric expedition sets out.</description>
    </book>
    <book id="bk108">
       <author>Knorr, Stefan</author>
@@ -88,33 +80,27 @@
       of being quantum.</description>
    </book>
    <book id="bk110">
-      <author>O'Brien, Tim</author>
-      <title>Microsoft .NET: The Programming Bible</title>
-      <genre>Computer</genre>
-      <price>36.95</price>
+      <author>Pratchett, Terry</author>
+      <title>Mort</title>
+      <genre>Comedy, Fantasy</genre>
+      <price>13.95</price>
       <publish_date>2000-12-09</publish_date>
-      <description>Microsoft's .NET initiative is explored in 
-      detail in this deep programmer's reference.</description>
+      <description>Death comes to Mort with an offer he can't refuse -- especially since being, well, dead isn't compulsory</description>
    </book>
    <book id="bk111">
-      <author>O'Brien, Tim</author>
-      <title>MSXML3: A Comprehensive Guide</title>
-      <genre>Computer</genre>
+      <author>Herbert, Frank</author>
+      <title>Dune</title>
+      <genre>Science Fiction</genre>
       <price>36.95</price>
       <publish_date>2000-12-01</publish_date>
-      <description>The Microsoft MSXML3 parser is covered in 
-      detail, with attention to XML DOM interfaces, XSLT processing, 
-      SAX and more.</description>
+      <description>The Duke of Atreides has been manoeuvred by his arch-enemy, Baron Harkonnen, into administering the desert planet of Dune</description>
    </book>
    <book id="bk112">
-      <author>Galos, Mike</author>
-      <title>Visual Studio 7: A Comprehensive Guide</title>
-      <genre>Computer</genre>
-      <price>49.95</price>
+      <author>Le Guin, Ursula K.</author>
+      <title>A Wizard of Earthsea</title>
+      <genre>Fantasy</genre>
+      <price>19.95</price>
       <publish_date>2001-04-16</publish_date>
-      <description>Microsoft Visual Studio 7 is explored in depth,
-      looking at how Visual Basic, Visual C++, C#, and ASP+ are 
-      integrated into a comprehensive development 
-      environment.</description>
+      <description>Ged was the greatest sorcerer in Earthsea, but in his youth he was the reckless Sparrowhawk</description>
    </book>
 </catalog>
